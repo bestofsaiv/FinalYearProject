@@ -1,0 +1,4 @@
+TEMP=FIRST
+FIRST=term->xtra->BOLD
+ONE={a,b}->DEAD
+DEAD=LAST
